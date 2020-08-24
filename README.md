@@ -20,3 +20,4 @@ seminar/
 
 
 test
+test2
